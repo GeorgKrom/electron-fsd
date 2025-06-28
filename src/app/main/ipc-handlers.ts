@@ -1,4 +1,4 @@
-import { getUser, sendUser } from '#/services/user';
+import { getUser, sendUser } from '#/features/user';
 
 export const ipcHandlers = () => {
     getUser();

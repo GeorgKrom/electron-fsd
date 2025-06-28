@@ -14,7 +14,8 @@
     "Feature-Sliced Design"
   ],
   "author": {
-    "name": "Georg Krom"
+    "name": "Georg Krom",
+    "email": "georgykrom@gmail.com"
   },
   "scripts": {
     "dev": "electron-vite dev --watch",
